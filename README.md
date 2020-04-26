@@ -1,4 +1,5 @@
 # Genetic_Algorithm_for_MOF_Array_optimization
+[github repository](https://github.com/ForestMrVince/Genetic_Algorithm_for_MOF_Array_optimization)
 ## 内容说明
 穆壮壮_1910294 的“复杂系统典型应用问题的建模与优化方法”课程作业。
 ## 文件目录说明
