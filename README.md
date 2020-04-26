@@ -18,7 +18,7 @@
 ### `data`目录使用说明：
 - 文件夹子目录命名为`mutation_rate = num1 to num2 step = num3`，其中num1、num2、num3分别为变异率参数化扫描的起始值、终止值、步长；
 - 文件夹子目录的子目录命名为`crossover&mutation`或`mutation_only`，分别代表着产生子代的策略为交叉加变异，以及只使用变异。
-- 文件夹子目录的子目录中名为`DataPlot.m`的文件，为matlab script，可以直接运行绘制出遗传算法适值-代数曲线，数据已经准备好不需要重新使用`csv`文件导入，数据文件为`matlab_data.mat`，另外的`fig`和`tif`文件是绘制好的遗传算法适值-代数曲线。
+- 文件夹子目录的子目录中名为`DataPlot.m`的文件，为`matlab script`，可以直接运行绘制出遗传算法适值-代数曲线，数据已经准备好不需要重新使用`csv`文件导入，数据文件为`matlab_data.mat`，另外的`fig`和`tif`文件是绘制好的遗传算法适值-代数曲线。
 
 ## 使用说明
 1. 点击右上角的绿色`Clone or download`按钮；
